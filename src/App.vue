@@ -106,7 +106,7 @@ li span {
 button {
   padding: 5px 10px;
   cursor: pointer;
-  background-color: green;
+  background-color: #1a75ff;
   color: #fff;
   border: none;
   border-radius: 3px;
