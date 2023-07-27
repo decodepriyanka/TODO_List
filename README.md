@@ -1,3 +1,9 @@
+A TODO List that can perform the following actions : 
+Add tasks, 
+Update tasks,
+Read tasks,
+Delete tasks
+
 # vue-todo-app
 
 ## Project setup
